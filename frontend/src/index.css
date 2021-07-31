@@ -1,6 +1,11 @@
 .color-nav {
-  background-color: whitesmoke;
+  background-color: #8fb7a2;
+  margin-bottom: 50px;
+}
+.color-footer {
+  background-color: #8fb7a2;
 }
 main {
   min-height: 80vh;
+  background-color: white;
 }
