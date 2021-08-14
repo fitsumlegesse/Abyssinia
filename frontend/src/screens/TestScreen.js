@@ -1,7 +1,7 @@
 import React from 'react'
 import Product from '../components/Product.js'
 import {Row, Col, Carousel} from 'react-bootstrap'
-import products from '../products'
+
 
 
 const TestScreen = () => {
